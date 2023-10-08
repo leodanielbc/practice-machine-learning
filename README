@@ -1,26 +1,23 @@
-# Practice Machine Learning
+#Practice Machine Learning
 
 Practice cost function, gradient descent
 
-## Instalations
+##Instalations
 
-### Instalations virtual environment
+###Instalations virtual environment
 
 ```
 $ python -m pip install virtualenv
 
 $ python -m virtualenv entorno
-
 ```
 
-### Available environment
+###Available environment
 ```
 $ entorno/Scripts/activate.bat
-
 ```
 
-### Installation libraries
+###Installation libraries
 ```
 $ pip install -r requirements.txt
-
 ```
